@@ -1,2 +1,4 @@
 # hello-world
-programming in java
+Hi
+ I like programming,i am  working on java project.
+ 
